@@ -1,0 +1,201 @@
+[
+
+    {
+       "name": "Circular Saw",
+       "image": "/images/Circular_Saw.png",
+       "description": "A handheld power saw with a toothed blade used for straight cuts in wood and other materials. It’s great for cross-cutting and ripping lumber on job sites.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Track Saw",
+       "image": "/images/Track_Saw.png",
+       "description": "Glides along a guide rail to make long, precise straight cuts. It’s ideal for sheet goods like plywood or MDF.",
+       "difficulty": "Hard"
+    },
+    {
+       "name": "Reciprocating Saw",
+       "image": "/images/Reciprocating_Saw.png",
+       "description": "This saw uses a back-and-forth blade motion to cut through wood, metal, and even drywall. It’s a go-to tool for demolition work.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Jigsaw",
+       "image": "/images/Jigsaw.png",
+       "description": "Makes curved and intricate cuts in wood, plastic, and thin metals. It’s excellent for detailed or artistic cutting.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Drill",
+       "image": "/images/Drill.png",
+       "description": "A basic yet essential tool used to bore holes and drive screws. It works on wood, metal, plastic, and masonry with the right bits.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Hammer Drill",
+       "image": "/images/Hammer_Drill.png",
+       "description": "This tool adds a pounding motion to the regular drilling action, allowing it to drill through concrete and brick. It's perfect for masonry work.",
+       "difficulty": "Hard"
+    },
+    {   "name": "Impact Driver",   
+        "image": "/images/Impact_Driver.png",   
+        "description": "Applies concussive rotational force, making it ideal for driving long screws and bolts. It’s stronger than a regular drill for fastening tasks.",   
+        "difficulty": "Medium"
+    },
+    {
+       "name": "Electric Screwdriver",
+       "image": "/images/Electric_Screwdriver.png",
+       "description": "This compact tool is used for quickly driving screws with minimal effort. It's useful for assembling furniture and light-duty work.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Impact Wrench",
+       "image": "/images/Impact_Wrench.png",
+       "description": "Used for loosening or tightening large bolts and nuts, especially in automotive and heavy machinery work. It delivers high torque output with minimal user effort.",
+       "difficulty": "Hard"
+    },
+    {
+       "name": "Angle Grinder",
+       "image": "/images/Angle_Grinder.png",
+       "description": "A versatile tool with a spinning disc used for cutting, grinding, and polishing metal, tile, and concrete. It’s frequently used in metal fabrication.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Belt Sander",
+       "image": "/images/Belt_Sander.png",
+       "description": "Quickly remove large amounts of material from wood or metal. They’re commonly used for leveling surfaces or stripping finishes.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Orbital Sander",
+       "image": "/images/Orbital_Sander.png",
+       "description": "These sanders move in random patterns to reduce swirl marks and leave a smooth finish. Great for preparing wood surfaces before painting or staining.",
+       "difficulty": "Easy"
+    },
+    {   
+        "name": "Rotary Tool",   
+        "image": "/images/Rotary_Tool.png",   
+        "description": "A compact, high-speed device that can grind, sand, polish, carve, or engrave. It’s widely used for precision tasks and hobbies.",
+        "difficulty": "Medium"
+    },
+    {
+       "name": "Router",
+       "image": "/images/Router.png",
+       "description": "This tool hollows out areas in wood and shapes edges with various bits. Essential for cabinetry, joinery, and decorative trim work.",
+       "difficulty": "Hard"
+    },
+    {
+       "name": "Band Saw",
+       "image": "/images/Band_Saw.png",
+       "description": "A stationary saw with a continuous blade loop for cutting curves, irregular shapes, and resawing thick wood. It’s popular in woodworking and metalworking.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Miter Saw",
+       "image": "/images/Miter_Saw.png",
+       "description": "This saw makes precise crosscuts and angled cuts, especially useful for trim, framing, and molding. It pivots on a hinge and can be compound or sliding.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Table Saw",
+       "image": "/images/Table_Saw.png",
+       "description": "A powerful saw with a fixed circular blade protruding from a table surface. It’s central to most woodworking shops for rip cuts and repeated accuracy.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Wet Tile Saw",
+       "image": "/images/Wet_Tile_Saw.png",
+       "description": "Designed for cutting ceramic and stone tiles with a water-cooled blade to reduce dust and heat. It’s vital in tiling and remodeling projects.",
+       "difficulty": "Hard"
+    },
+    {   
+        "name": "Bench Grinder",   
+        "image": "/images/Bench_Grinder.png",   
+        "description": "A stationary grinder with two rotating wheels used for sharpening tools or smoothing rough edges. Commonly found in metal and automotive shops.",   
+        "difficulty": "Hard"
+    },
+    {
+       "name": "Drill Press",
+       "image": "/images/Drill_Press.png",
+       "description": "A floor or bench-mounted drill that offers precise control over hole size and depth. It’s ideal for repetitive or exact drilling in metal or wood.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Lathe",
+       "image": "/images/Lathe.png",
+       "description": "Rotate workpieces on a horizontal axis while cutting tools shape the material. Used in woodturning and metalworking to create symmetrical objects.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Milling Machine",
+       "image": "/images/Milling_Machine.png",
+       "description": "Use rotary cutters to remove material from metal or wood. It offers high precision in creating slots, holes, and complex shapes.",
+       "difficulty": "Hard"
+    },
+    {
+       "name": "CNC Router",
+       "image": "/images/CNC_Router.png",
+       "description": "A computer-controlled router that automates intricate cutting, carving, and engraving tasks. Widely used in sign-making, cabinetry, and manufacturing.",
+       "difficulty": "Hard"
+    },
+    {
+       "name": "Air Compressor",
+       "image": "/images/Air_Compressor.png",
+       "description": "This machine stores compressed air to power pneumatic tools, inflate tires, and clean machinery. It’s a utility tool in garages and workshops.",
+       "difficulty": "Easy"
+    },
+    {   
+        "name": "Nail Gun",   
+        "image": "/images/Nail_Gun.png",   
+        "description": "Drives nails into surfaces quickly and efficiently. It speeds up framing, roofing, and finish carpentry projects.",   
+        "difficulty": "Easy"
+    },
+    {
+       "name": "Chainsaw",
+       "image": "/images/Chainsaw.png",
+       "description": "Motorized saws with a rotating chain for cutting trees, branches, and logs. Available in gas or electric models.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Pole Saw",
+       "image": "/images/Pole_Saw.png",
+       "description": "Essentially a small chainsaw on an extended pole, this tool trims hard-to-reach tree branches. It improves safety by eliminating the need for ladders.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Log Splitter",
+       "image": "/images/Log_Splitter.png",
+       "description": "This hydraulic machine splits logs into firewood with ease. It saves time and physical effort compared to using an axe.",
+       "difficulty": "Medium"
+    },
+    {
+       "name": "Hedge Trimmer",
+       "image": "/images/Hedge_Trimmer.png",
+       "description": "Uses reciprocating blades to trim shrubs and hedges neatly. It's available in corded, cordless, or gas-powered versions.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "String Trimmer",
+       "image": "/images/String_Trimmer.png",
+       "description": "Also known as a weed eater, this tool cuts grass and weeds in areas a lawn mower can’t reach. It uses a spinning nylon string for trimming.",
+       "difficulty": "Easy"
+    },
+    {   
+        "name": "Lawn Mower",   
+        "image": "/images/Lawn_Mower.png",   
+        "description": "Cuts grass evenly and is essential for lawn maintenance. Comes in push, self-propelled, and riding versions.",   
+        "difficulty": "Easy"
+    },
+    {
+       "name": "Leaf Blower",
+       "image": "/images/Leaf_Blower.png",
+       "description": "Directs air to clear leaves, debris, and grass clippings from yards or driveways. It reduces manual raking time.",
+       "difficulty": "Easy"
+    },
+    {
+       "name": "Snow Blower",
+       "image": "/images/Snow_Blower.png",
+       "description": "This tool removes snow from driveways and walkways by collecting and throwing it aside. It’s a winter essential in snowy regions.",
+       "difficulty": "Easy"
+    }
+    
+    ]
